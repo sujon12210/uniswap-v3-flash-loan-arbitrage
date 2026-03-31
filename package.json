@@ -1,0 +1,11 @@
+{
+  "name": "uniswap-v3-flash-loan-arbitrage",
+  "version": "1.0.0",
+  "description": "Uniswap V3 Flash Loan Implementation",
+  "dependencies": {
+    "@uniswap/v3-core": "^1.0.1",
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
